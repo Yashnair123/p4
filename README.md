@@ -1,0 +1,1 @@
+In order to run the program, simply copy the files "stub.py" or "stub1.py" (corresponding to the Q-learner and SARSA, respectively) into a folder which also contains the file "SwingyMonkey.py" (which we did not modify at all). Then simply navigate into the directory in a terminal window, and type "python stub.py" or "python stub1.py" to run either file.
